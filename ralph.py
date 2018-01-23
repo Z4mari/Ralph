@@ -1,3 +1,6 @@
+#Josiah N Savage 1/10/18
+
+
 final_output = []
 
 total_spent = []
